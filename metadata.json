@@ -1,0 +1,6 @@
+{
+  "name": "MedLedger PK - Medical Store Management System",
+  "description": "Offline-first pharmacy inventory, multi-batch expiry tracking, POS billing, customer udhaar ledger, and financial reporting system for medical stores in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
